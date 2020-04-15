@@ -1,2 +1,2 @@
-# Object oriented PHP
+# Object-Oriented PHP
 
