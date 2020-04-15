@@ -1,1 +1,2 @@
 # phpoop
+Object oriented PHP
